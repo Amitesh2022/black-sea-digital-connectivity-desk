@@ -1,0 +1,1 @@
+<template><section class="panel insight"><span class="eyebrow">Delivery guidance</span><h2>Every corridor project needs a defined route, resilience objective, financing path and accountable delivery owner</h2><p>Regional teams can coordinate European technology, standards and investment while tracking security and interoperability evidence.</p></section></template>
